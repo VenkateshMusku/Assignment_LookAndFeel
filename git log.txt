@@ -1,3 +1,7 @@
+$ git log --author="VenkateshMusku" --pretty=tformat: --numstat
+1       0       Readme.txt
+-       -       .vs/slnx.sqlite
+30      0       git log.txt
 -       -       .vs/slnx.sqlite
 -       -       Assignment3_Web_LookAndFeel.docx
 9790    0       Austin_Code_COVID-19_Complaint_Cases.csv
