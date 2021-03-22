@@ -1,4 +1,20 @@
 $ git log --author="VenkateshMusku" --pretty=tformat: --numstat
+-       -       .vs/slnx.sqlite
+7       0       dashboard.html
+-       -       img/typeofbusi.PNG
+-       -       img/typeofcomp.PNG
+2       1       aboutus.html
+-       -       .vs/slnx.sqlite
+28      0       aboutus.html
+16      3       dashboard.html
+-       -       .vs/slnx.sqlite
+205     0       dashboard.html
+-       -       .vs/slnx.sqlite
+5       1       aboutus.html
+0       204     dashboard.html
+9       1       index.html
+-       -       .vs/slnx.sqlite
+4       0       git log.txt
 1       0       Readme.txt
 -       -       .vs/slnx.sqlite
 30      0       git log.txt
@@ -29,6 +45,4 @@ $ git log --author="VenkateshMusku" --pretty=tformat: --numstat
 -       -       img/usf.png
 -       -       img/usf2.png
 141     0       css/style.css
-1639    0       DIS dataset idea.csv
-134     0       aboutus.html
-131     1       index.html
+:                               
